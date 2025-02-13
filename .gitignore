@@ -1,0 +1,27 @@
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+.vscode/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+secrets.json
+
+# Dependency caches
+packages/
+node_modules/
+
+# Configurations (optional: remove if you version control them)
+appsettings.*.json
+Migrations/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
